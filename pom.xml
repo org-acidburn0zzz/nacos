@@ -135,7 +135,7 @@
         <commons-logging.version>1.2</commons-logging.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <commons-cli.version>1.2</commons-cli.version>
-        <slf4j-api.version>1.7.7</slf4j-api.version>
+        <slf4j-api.version>1.7.30</slf4j-api.version>
         <logback.version>1.2.3</logback.version>
         <log4j.version>2.13.3</log4j.version>
         <httpcore.version>4.4.1</httpcore.version>
