@@ -144,7 +144,7 @@
         <async-http-client.version>1.7.17</async-http-client.version>
         <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <derby.version>10.14.2.0</derby.version>
-        <cglib-nodep.version>2.1</cglib-nodep.version>
+        <cglib-nodep.version>2.2.2</cglib-nodep.version>
         <jcip-annotations.version>1.0</jcip-annotations.version>
         <jackson-core.version>2.10.4</jackson-core.version>
         <jackson-databind.version>2.10.4</jackson-databind.version>
